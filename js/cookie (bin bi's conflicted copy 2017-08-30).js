@@ -59,15 +59,3 @@ function deleteCookie(cookie_name) {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-

@@ -89,16 +89,3 @@ var get_lang = function() {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-

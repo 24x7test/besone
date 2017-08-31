@@ -359,15 +359,3 @@ function flash_imgsize_out(){
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-

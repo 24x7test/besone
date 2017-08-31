@@ -40,15 +40,3 @@ window.clearTimeout(this.setTimeOut);this.setTimeOut=window.setTimeout(function(
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
